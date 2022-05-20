@@ -110,7 +110,7 @@
       "alphaCutOff": 0.4,
       "metallic": 1,
       "albedoTexture": {
-        "name": "orig_BaseColor.jpg",
+        "name": "unused_BaseColor.jpg",
         "level": 1,
         "hasAlpha": false,
         "coordinatesMode": 0,
